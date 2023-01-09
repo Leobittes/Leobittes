@@ -1,7 +1,8 @@
-<h1 align="center"> Seja bem vindo ao GitHub do Léo Bittes. </h1> 
+ Seja bem vindo ao GitHub do Léo Bittes.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leobittes&show_icons=true)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leobittes&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact)  
+  
+ 
 </div>
   
  ## Linguagens e Tecnologias:
