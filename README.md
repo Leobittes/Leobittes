@@ -1,4 +1,4 @@
-                                                   Olá Eu sou o Léo Bittes ! 🚲
+Léo Bittes ! 🚲
 
 
 <div align="center">
