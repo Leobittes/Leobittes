@@ -17,11 +17,11 @@
   
 </div>
 
- 
--  _Atualmente estou trabalhando como Analista de BI_
+
+-  _Em processo de migração para DeVops | SRE | Cloud._ 
 -  _No momento estou aprendendo, DeVops | Vagrant | Cloud | Ansible | Git | Github | Linux | VirtualBox_
--  _Em processo de migração para DeVops | SRE | Cloud._
-  
+-  _Atualmente estou trabalhando como Analista de BI_
+-    
   ## Minhas redes :
 <div> 
   <a href="https://www.instagram.com/bittesleo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
