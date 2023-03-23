@@ -20,8 +20,9 @@
 
 
 -  _Em processo de migração para DeVops | SRE | Cloud._ 
--  _No momento estou aprendendo, DeVops | Vagrant | Cloud | Ansible | Git | Github | Linux | VirtualBox_
--  _Atualmente estou trabalhando como Analista de BI_
+-  _ DeVops | Vagrant | Cloud | Ansible | Git | Github | Linux | VirtualBox | AWS | Docker | Terraform | Zabbix | Grafana 
+-  _ Kubernets
+- 
 -    
   ## Minhas redes :
 <div> 
