@@ -21,7 +21,7 @@
 
 -  _Em processo de migração para DeVops | SRE | Cloud._ 
 -  _ DeVops | Vagrant | Cloud | Ansible | Git | Github | Linux | VirtualBox | AWS | Docker | Terraform | Zabbix | Grafana 
--  _ Kubernets
+-  _ Kubernets | AWS | GCP
 - 
 -    
   ## Minhas redes :
